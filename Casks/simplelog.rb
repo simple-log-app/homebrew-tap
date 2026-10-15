@@ -1,6 +1,6 @@
 cask "simplelog" do
-  version "2.1.0"
-  sha256 "71e9e02b2d300dcc8c471c6e79ada53a27c8dfc4775f12b051f77a740cddc2d0"
+  version "2.1.1"
+  sha256 "89085dad3a880e50ae82b650820901615ffddecdbbe6be76cd9804fc7c104d57"
 
   url "https://github.com/simple-log-app/simplelog/releases/download/v#{version}/SimpleLog-macOS-universal.dmg"
   name "SimpleLog"
